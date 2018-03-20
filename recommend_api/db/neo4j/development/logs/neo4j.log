@@ -1,0 +1,18 @@
+nohup: ignoring input
+2018-03-19 15:08:19.765+0000 INFO  ======== Neo4j 3.3.4 ========
+2018-03-19 15:08:19.850+0000 INFO  Starting...
+2018-03-19 15:08:22.137+0000 INFO  Bolt enabled on localhost:7472.
+2018-03-19 15:08:27.384+0000 INFO  Started.
+2018-03-19 15:08:28.677+0000 INFO  Remote interface available at http://localhost:7474/
+2018-03-20 05:37:36.501+0000 INFO  Neo4j Server shutdown initiated by request
+2018-03-20 05:37:36.531+0000 INFO  Stopping...
+2018-03-20 05:37:37.194+0000 INFO  Stopped.
+nohup: ignoring input
+2018-03-20 05:37:42.313+0000 INFO  ======== Neo4j 3.3.4 ========
+2018-03-20 05:37:42.349+0000 INFO  Starting...
+2018-03-20 05:37:43.232+0000 INFO  Bolt enabled on localhost:7472.
+2018-03-20 05:37:47.414+0000 INFO  Started.
+2018-03-20 05:37:48.464+0000 INFO  Remote interface available at http://localhost:7474/
+2018-03-20 18:20:11.601+0000 ERROR Client triggered an unexpected error [UnknownError]: java.lang.NullPointerException, reference 953709ed-634a-4a52-b6bb-a87ed4c1cbb3.
+2018-03-20 18:20:11.642+0000 ERROR Client triggered an unexpected error [UnknownError]: java.lang.NullPointerException, reference c77e24ec-945a-4f02-91ed-36b7eba8fa88.
+2018-03-20 18:20:11.655+0000 ERROR Client triggered an unexpected error [UnknownError]: java.lang.NullPointerException, reference 11a896dd-71bb-4560-bc86-fc6b1e8b61c5.
