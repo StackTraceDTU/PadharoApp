@@ -20,6 +20,13 @@ This is combined with a provision for redeeming points assigned to each site whi
 	4.  Time of last visit in a day
 -   Availability of tour guides and detecting the location of user, the application allows the user to rent a tour guide and rate him/her after service.
 
+## Business Model
+Possible modes of revenue generation are:
+- Partnering with food joints, festivals, events, plays etc. listed on the application.
+- Partnering with payment wallets for the purpose of paying the tour guide.
+- Commission received from guides as a part of getting them sources of revenue.
+
+
 ## Technology Stack 
 - **UI/Front-end:** Android
 - **Back-end:** Ruby on Rails
